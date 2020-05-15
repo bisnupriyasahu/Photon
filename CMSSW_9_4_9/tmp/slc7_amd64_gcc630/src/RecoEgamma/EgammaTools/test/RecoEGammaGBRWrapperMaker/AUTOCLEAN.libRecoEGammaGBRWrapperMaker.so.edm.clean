@@ -1,0 +1,2 @@
+01:/usr/bin/rm -f lib/slc7_amd64_gcc630/pluginRecoEGammaGBRWrapperMaker.so lib/slc7_amd64_gcc630/RecoEGammaGBRWrapperMaker.edmplugin
+90:edmPluginRefresh lib/slc7_amd64_gcc630

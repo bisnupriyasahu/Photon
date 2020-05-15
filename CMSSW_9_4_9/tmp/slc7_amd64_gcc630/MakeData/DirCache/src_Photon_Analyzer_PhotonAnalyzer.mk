@@ -1,0 +1,2 @@
+ALL_PACKAGES += Photon_Analyzer/PhotonAnalyzer
+subdirs_src_Photon_Analyzer_PhotonAnalyzer := src_Photon_Analyzer_PhotonAnalyzer_plugins src_Photon_Analyzer_PhotonAnalyzer_python src_Photon_Analyzer_PhotonAnalyzer_test
